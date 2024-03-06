@@ -15,45 +15,45 @@ MongoDB是一个非关系型数据库(NoSQL). 非常适合超大数据集的存�
 
 首先去官网下载MongoDB的安装包, https://www.mongodb.com/try/download/community
 
-<img src="image-20210728093724660.png" alt="image-20210728093724660" style="zoom:50%;" />
+<img src="./imgs/image-20210728093724660.png" alt="image-20210728093724660" style="zoom:50%;" />
 
-<img src="image-20210728093838499.png" alt="image-20210728093838499" style="zoom:50%;" />
+<img src="./imgs/image-20210728093838499.png" alt="image-20210728093838499" style="zoom:50%;" />
 
-<img src="image-20210728093906551.png" alt="image-20210728093906551" style="zoom:50%;" />
+<img src="./imgs/image-20210728093906551.png" alt="image-20210728093906551" style="zoom:50%;" />
 
-<img src="image-20210728094404958.png" alt="image-20210728094404958" style="zoom:50%;" />
+<img src="./imgs/image-20210728094404958.png" alt="image-20210728094404958" style="zoom:50%;" />
 
-<img src="image-20210728094441168.png" alt="image-20210728094441168" style="zoom:50%;" />
+<img src="./imgs/image-20210728094441168.png" alt="image-20210728094441168" style="zoom:50%;" />
 
-<img src="image-20210728094521878.png" alt="image-20210728094521878" style="zoom:50%;" />
+<img src="./imgs/image-20210728094521878.png" alt="image-20210728094521878" style="zoom:50%;" />
 
-<img src="image-20210728094547434.png" alt="image-20210728094547434" style="zoom:50%;" />
+<img src="./imgs/image-20210728094547434.png" alt="image-20210728094547434" style="zoom:50%;" />
 
-<img src="image-20210728094627838.png" alt="image-20210728094627838" style="zoom:50%;" />
+<img src="./imgs/image-20210728094627838.png" alt="image-20210728094627838" style="zoom:50%;" />
 
-<img src="image-20210728094653296.png" alt="image-20210728094653296" style="zoom:50%;" />
+<img src="./imgs/image-20210728094653296.png" alt="image-20210728094653296" style="zoom:50%;" />
 
-<img src="image-20210728094727302.png" alt="image-20210728094727302" style="zoom:50%;" />
+<img src="./imgs/image-20210728094727302.png" alt="image-20210728094727302" style="zoom:50%;" />
 
-<img src="image-20210728094750500.png" alt="image-20210728094750500" style="zoom:50%;" />
+<img src="./imgs/image-20210728094750500.png" alt="image-20210728094750500" style="zoom:50%;" />
 
 
 
 将mongodb目录下的bin文件夹添加到环境变量
 
-<img src="image-20210728095340874.png" alt="image-20210728095340874" style="zoom:50%;" />
+<img src="./imgs/image-20210728095340874.png" alt="image-20210728095340874" style="zoom:50%;" />
 
-<img src="image-20210728095433900.png" alt="image-20210728095433900" style="zoom:50%;" />
+<img src="./imgs/image-20210728095433900.png" alt="image-20210728095433900" style="zoom:50%;" />
 
-<img src="image-20210728095507330.png" alt="image-20210728095507330" style="zoom:50%;" />
+<img src="./imgs/image-20210728095507330.png" alt="image-20210728095507330" style="zoom:50%;" />
 
-<img src="image-20210728095631337.png" alt="image-20210728095631337" style="zoom:50%;" />
+<img src="./imgs/image-20210728095631337.png" alt="image-20210728095631337" style="zoom:50%;" />
 
-<img src="image-20210728100113133.png" alt="image-20210728100113133" style="zoom:50%;" />
+<img src="./imgs/image-20210728100113133.png" alt="image-20210728100113133" style="zoom:50%;" />
 
-<img src="image-20210729195132883.png" alt="image-20210729195132883" style="zoom:30%;" />
+<img src="./imgs/image-20210729195132883.png" alt="image-20210729195132883" style="zoom:30%;" />
 
-<img src="image-20210729195203348.png" alt="image-20210729195203348" style="zoom:30%;" />
+<img src="./imgs/image-20210729195203348.png" alt="image-20210729195203348" style="zoom:30%;" />
 
 对于mac的安装:https://blog.csdn.net/qq991658923/article/details/121436106
 
